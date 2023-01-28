@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido a partir do projeto original. Foi feita uma nova c
 npm install -g http-server
 ```
 
-2.No diretório do projeto:
+2. No diretório do projeto:
 ```bash
   http-server ./
 ```
